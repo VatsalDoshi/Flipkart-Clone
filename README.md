@@ -1,3 +1,4 @@
 # Flipkart-Clone
 
-![image](https://github.com/VatsalDoshi/Flipkart-Clone/assets/114709734/77843d35-67bc-43e7-8e3c-b7899c62c8cb)
+![image](https://github.com/VatsalDoshi/Flipkart-Clone/assets/114709734/6eb509b3-b0ed-472e-913b-215751771c2b)
+
